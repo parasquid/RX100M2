@@ -11,7 +11,7 @@ To experiment with that code, run `bin/console` for an interactive prompt.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'RX100M2', git: "parasquid/RX100M2"
+gem 'RX100M2', github: "parasquid/RX100M2"
 ```
 
 And then execute:
